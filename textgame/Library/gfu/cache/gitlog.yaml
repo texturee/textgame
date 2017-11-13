@@ -1,0 +1,1262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: ce871873e272f424dadcd1374ecef0e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log:
+  - CommitID: 110aabad28bd8adbdb42c824f3a33808ee5fdfda
+    MergeA: 
+    MergeB: 
+    AuthorName: tonihurtado13
+    AuthorEmail: tonihurtado13@gmail.com
+    CommitEmail: tonihurtado13@gmail.com
+    CommitName: tonihurtado13
+    Summary: assets
+    Description: assets
+    TimeString: 11/7/2017 3:13:29 PM +01:00
+    CommitTimeString: 11/7/2017 3:13:29 PM +01:00
+    Changes:
+    - Path: textgame\Assets\Circle.png
+      FullPath: D:\DESARROLLO\textgame\textgame\Assets\Circle.png
+      ProjectPath: Assets\Circle.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Assets\Circle.png.meta
+      FullPath: D:\DESARROLLO\textgame\textgame\Assets\Circle.png.meta
+      ProjectPath: Assets\Circle.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Assets\circle.unity
+      FullPath: D:\DESARROLLO\textgame\textgame\Assets\circle.unity
+      ProjectPath: Assets\circle.unity
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Assets\circle.unity.meta
+      FullPath: D:\DESARROLLO\textgame\textgame\Assets\circle.unity.meta
+      ProjectPath: Assets\circle.unity.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\CurrentLayout.dwlt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\CurrentLayout.dwlt
+      ProjectPath: Library\CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\LastSceneManagerSetup.txt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\LastSceneManagerSetup.txt
+      ProjectPath: Library\LastSceneManagerSetup.txt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\4\4b645a20c2cc49adad9d47060ee01940.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\4\4b645a20c2cc49adad9d47060ee01940.bin
+      ProjectPath: Library\ShaderCache\4\4b645a20c2cc49adad9d47060ee01940.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\6\60a4f8c9768ce6e30ab174e36a3b7c90.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\6\60a4f8c9768ce6e30ab174e36a3b7c90.bin
+      ProjectPath: Library\ShaderCache\6\60a4f8c9768ce6e30ab174e36a3b7c90.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\6\66eb73085ce1d4cf773ab4d732b91454.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\6\66eb73085ce1d4cf773ab4d732b91454.bin
+      ProjectPath: Library\ShaderCache\6\66eb73085ce1d4cf773ab4d732b91454.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\7\75295348d07fb254f47a603ab68ac846.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\7\75295348d07fb254f47a603ab68ac846.bin
+      ProjectPath: Library\ShaderCache\7\75295348d07fb254f47a603ab68ac846.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\a\ad33e13d8578f4532a92ad097c8f9ac3.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\a\ad33e13d8578f4532a92ad097c8f9ac3.bin
+      ProjectPath: Library\ShaderCache\a\ad33e13d8578f4532a92ad097c8f9ac3.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\f\f1e746cbea78d03e04ffe86405ce6a27.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\f\f1e746cbea78d03e04ffe86405ce6a27.bin
+      ProjectPath: Library\ShaderCache\f\f1e746cbea78d03e04ffe86405ce6a27.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\assetDatabase3
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\assetDatabase3
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\expandedItems
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\expandedItems
+      ProjectPath: Library\expandedItems
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      ProjectPath: Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      ProjectPath: Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      ProjectPath: Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\metadata\92\92abd43199be6a24a90f13d93f442397
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\92\92abd43199be6a24a90f13d93f442397
+      ProjectPath: Library\metadata\92\92abd43199be6a24a90f13d93f442397
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\92\92abd43199be6a24a90f13d93f442397.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\92\92abd43199be6a24a90f13d93f442397.info
+      ProjectPath: Library\metadata\92\92abd43199be6a24a90f13d93f442397.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      ProjectPath: Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: textgame\Library\metadata\eb\eb2a642b7eee9cb408166f222693c0eb
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\eb\eb2a642b7eee9cb408166f222693c0eb
+      ProjectPath: Library\metadata\eb\eb2a642b7eee9cb408166f222693c0eb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\eb\eb2a642b7eee9cb408166f222693c0eb.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\eb\eb2a642b7eee9cb408166f222693c0eb.info
+      ProjectPath: Library\metadata\eb\eb2a642b7eee9cb408166f222693c0eb.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      ProjectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+  - CommitID: c25c4cb17ddf19cd8cb13a96ce9c435127ffb6b4
+    MergeA: 
+    MergeB: 
+    AuthorName: tonihurtado13
+    AuthorEmail: tonihurtado13@gmail.com
+    CommitEmail: tonihurtado13@gmail.com
+    CommitName: tonihurtado13
+    Summary: first committ
+    Description: first committ
+    TimeString: 11/7/2017 3:10:17 PM +01:00
+    CommitTimeString: 11/7/2017 3:10:17 PM +01:00
+    Changes:
+    - Path: textgame\Library\AnnotationManager
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\AnnotationManager
+      ProjectPath: Library\AnnotationManager
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\AssetImportState
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\AssetImportState
+      ProjectPath: Library\AssetImportState
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\BuildPlayer.prefs
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\BuildPlayer.prefs
+      ProjectPath: Library\BuildPlayer.prefs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\BuildSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\BuildSettings.asset
+      ProjectPath: Library\BuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\CurrentLayout.dwlt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\CurrentLayout.dwlt
+      ProjectPath: Library\CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\EditorUserBuildSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\EditorUserBuildSettings.asset
+      ProjectPath: Library\EditorUserBuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\EditorUserSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\EditorUserSettings.asset
+      ProjectPath: Library\EditorUserSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\FacebookSDK\Facebook.Unity.Arcade.dll
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\FacebookSDK\Facebook.Unity.Arcade.dll
+      ProjectPath: Library\FacebookSDK\Facebook.Unity.Arcade.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\FacebookSDK\Facebook.Unity.Settings.dll
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\FacebookSDK\Facebook.Unity.Settings.dll
+      ProjectPath: Library\FacebookSDK\Facebook.Unity.Settings.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\FacebookSDK\Facebook.Unity.dll
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\FacebookSDK\Facebook.Unity.dll
+      ProjectPath: Library\FacebookSDK\Facebook.Unity.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\FacebookSDK\FacebookNamedPipeClient.dll
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\FacebookSDK\FacebookNamedPipeClient.dll
+      ProjectPath: Library\FacebookSDK\FacebookNamedPipeClient.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\FacebookSDK\ivy.xml
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\FacebookSDK\ivy.xml
+      ProjectPath: Library\FacebookSDK\ivy.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\FacebookSDK\version.txt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\FacebookSDK\version.txt
+      ProjectPath: Library\FacebookSDK\version.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\InspectorExpandedItems.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\InspectorExpandedItems.asset
+      ProjectPath: Library\InspectorExpandedItems.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\LastSceneManagerSetup.txt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\LastSceneManagerSetup.txt
+      ProjectPath: Library\LastSceneManagerSetup.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\LibraryFormatVersion.txt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\LibraryFormatVersion.txt
+      ProjectPath: Library\LibraryFormatVersion.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\MonoManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\MonoManager.asset
+      ProjectPath: Library\MonoManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ProjectSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ProjectSettings.asset
+      ProjectPath: Library\ProjectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      ProjectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ScriptMapper
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ScriptMapper
+      ProjectPath: Library\ScriptMapper
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\4\4c5bec3ba92e067587d956ba7429bcbe.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\4\4c5bec3ba92e067587d956ba7429bcbe.bin
+      ProjectPath: Library\ShaderCache\4\4c5bec3ba92e067587d956ba7429bcbe.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\7\7e4094eca968913e5dd832a22828687c.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\7\7e4094eca968913e5dd832a22828687c.bin
+      ProjectPath: Library\ShaderCache\7\7e4094eca968913e5dd832a22828687c.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\8\8a105bb5070930b4470c9d46d4d92685.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\8\8a105bb5070930b4470c9d46d4d92685.bin
+      ProjectPath: Library\ShaderCache\8\8a105bb5070930b4470c9d46d4d92685.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\9\966f6a71797cc70c9b0d7d0f05e49c9e.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\9\966f6a71797cc70c9b0d7d0f05e49c9e.bin
+      ProjectPath: Library\ShaderCache\9\966f6a71797cc70c9b0d7d0f05e49c9e.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\b\b25ee7c3889b87b0399973e84c60a262.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\b\b25ee7c3889b87b0399973e84c60a262.bin
+      ProjectPath: Library\ShaderCache\b\b25ee7c3889b87b0399973e84c60a262.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\c\ce8ff88b7e2b921ee2af38074d3aeeef.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\c\ce8ff88b7e2b921ee2af38074d3aeeef.bin
+      ProjectPath: Library\ShaderCache\c\ce8ff88b7e2b921ee2af38074d3aeeef.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\e\ebdce5cbed610d503bb312de7d4355b8.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\e\ebdce5cbed610d503bb312de7d4355b8.bin
+      ProjectPath: Library\ShaderCache\e\ebdce5cbed610d503bb312de7d4355b8.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\ShaderCache\f\fc24d0e2a7be9bf4e7fbdfdae42701db.bin
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\ShaderCache\f\fc24d0e2a7be9bf4e7fbdfdae42701db.bin
+      ProjectPath: Library\ShaderCache\f\fc24d0e2a7be9bf4e7fbdfdae42701db.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\SpriteAtlasDatabase.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\SpriteAtlasDatabase.asset
+      ProjectPath: Library\SpriteAtlasDatabase.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\UnityAssemblies\version.txt
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\UnityAssemblies\version.txt
+      ProjectPath: Library\UnityAssemblies\version.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\assetDatabase3
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\assetDatabase3
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\expandedItems
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\expandedItems
+      ProjectPath: Library\expandedItems
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000001000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000001000000000000000
+      ProjectPath: Library\metadata\00\00000000000000001000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000001000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000001000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000001000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000002000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000002000000000000000
+      ProjectPath: Library\metadata\00\00000000000000002000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000002000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000002000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000002000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000003000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000003000000000000000
+      ProjectPath: Library\metadata\00\00000000000000003000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000003000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000003000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000003000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000004000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000004000000000000000
+      ProjectPath: Library\metadata\00\00000000000000004000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000004000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000004000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000004000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000004100000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000004100000000000000
+      ProjectPath: Library\metadata\00\00000000000000004100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000004100000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000004100000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000004100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000005000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000005000000000000000
+      ProjectPath: Library\metadata\00\00000000000000005000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000005000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000005000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000005000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000005100000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000005100000000000000
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000005100000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000005100000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000006000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000006000000000000000
+      ProjectPath: Library\metadata\00\00000000000000006000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000006000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000006000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000006000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000006100000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000006100000000000000
+      ProjectPath: Library\metadata\00\00000000000000006100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000006100000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000006100000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000006100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000007000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000007000000000000000
+      ProjectPath: Library\metadata\00\00000000000000007000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000007000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000007000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000007000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000007100000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000007100000000000000
+      ProjectPath: Library\metadata\00\00000000000000007100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000007100000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000007100000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000007100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000008000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000008000000000000000
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000008000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000008000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000009000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000009000000000000000
+      ProjectPath: Library\metadata\00\00000000000000009000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\00000000000000009000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\00000000000000009000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000009000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000a000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000a000000000000000
+      ProjectPath: Library\metadata\00\0000000000000000a000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000a000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000a000000000000000.info
+      ProjectPath: Library\metadata\00\0000000000000000a000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000a100000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000a100000000000000
+      ProjectPath: Library\metadata\00\0000000000000000a100000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000a100000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000a100000000000000.info
+      ProjectPath: Library\metadata\00\0000000000000000a100000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000b000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000b000000000000000
+      ProjectPath: Library\metadata\00\0000000000000000b000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000b000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000b000000000000000.info
+      ProjectPath: Library\metadata\00\0000000000000000b000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000c000000000000000
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000c000000000000000
+      ProjectPath: Library\metadata\00\0000000000000000c000000000000000
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\00\0000000000000000c000000000000000.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\00\0000000000000000c000000000000000.info
+      ProjectPath: Library\metadata\00\0000000000000000c000000000000000.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+      ProjectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+      ProjectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+      ProjectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+      ProjectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      ProjectPath: Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0.info
+      ProjectPath: Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+      ProjectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+      ProjectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      ProjectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+      ProjectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      ProjectPath: Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\24\2403d1f95ea54028853403e595bc9274.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\24\2403d1f95ea54028853403e595bc9274.info
+      ProjectPath: Library\metadata\24\2403d1f95ea54028853403e595bc9274.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      ProjectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+      ProjectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+      ProjectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+      ProjectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+      ProjectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+      ProjectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      ProjectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+      ProjectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+      ProjectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+      ProjectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\40\405b9b51bb344a128608d968297df79c
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\40\405b9b51bb344a128608d968297df79c
+      ProjectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+      ProjectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      ProjectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+      ProjectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+      ProjectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+      ProjectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      ProjectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      ProjectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      ProjectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+      ProjectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      ProjectPath: Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26.info
+      ProjectPath: Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      ProjectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+      ProjectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      ProjectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      ProjectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+      ProjectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+      ProjectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      ProjectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+      ProjectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\69\6981461fe431401459211818212a29cf
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\69\6981461fe431401459211818212a29cf
+      ProjectPath: Library\metadata\69\6981461fe431401459211818212a29cf
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\69\6981461fe431401459211818212a29cf.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\69\6981461fe431401459211818212a29cf.info
+      ProjectPath: Library\metadata\69\6981461fe431401459211818212a29cf.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      ProjectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+      ProjectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+      ProjectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
+      ProjectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      ProjectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      ProjectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      ProjectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+      ProjectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\83\8382b2bb260241859771b69b7f377a8d
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\83\8382b2bb260241859771b69b7f377a8d
+      ProjectPath: Library\metadata\83\8382b2bb260241859771b69b7f377a8d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\83\8382b2bb260241859771b69b7f377a8d.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\83\8382b2bb260241859771b69b7f377a8d.info
+      ProjectPath: Library\metadata\83\8382b2bb260241859771b69b7f377a8d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      ProjectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+      ProjectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+      ProjectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+      ProjectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\85\852e56802eb941638acbb491814497b0
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\85\852e56802eb941638acbb491814497b0
+      ProjectPath: Library\metadata\85\852e56802eb941638acbb491814497b0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\85\852e56802eb941638acbb491814497b0.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\85\852e56802eb941638acbb491814497b0.info
+      ProjectPath: Library\metadata\85\852e56802eb941638acbb491814497b0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+      ProjectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
+      ProjectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      ProjectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+      ProjectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+      ProjectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
+      ProjectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      ProjectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+      ProjectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+      ProjectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+      ProjectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+      ProjectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
+      ProjectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      ProjectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+      ProjectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+      ProjectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+      ProjectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      ProjectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+      ProjectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      ProjectPath: Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c.info
+      ProjectPath: Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\d0\d05b96cee66e14240838de167097537a
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\d0\d05b96cee66e14240838de167097537a
+      ProjectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      ProjectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      ProjectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      ProjectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      ProjectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      ProjectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      ProjectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      ProjectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      ProjectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      ProjectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      ProjectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      ProjectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      ProjectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      ProjectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      FullPath: D:\DESARROLLO\textgame\textgame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      ProjectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\AudioManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\AudioManager.asset
+      ProjectPath: ProjectSettings\AudioManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\ClusterInputManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\ClusterInputManager.asset
+      ProjectPath: ProjectSettings\ClusterInputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\DynamicsManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\DynamicsManager.asset
+      ProjectPath: ProjectSettings\DynamicsManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\EditorBuildSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\EditorBuildSettings.asset
+      ProjectPath: ProjectSettings\EditorBuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\EditorSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\EditorSettings.asset
+      ProjectPath: ProjectSettings\EditorSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\GraphicsSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\GraphicsSettings.asset
+      ProjectPath: ProjectSettings\GraphicsSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\InputManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\InputManager.asset
+      ProjectPath: ProjectSettings\InputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\NavMeshAreas.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\NavMeshAreas.asset
+      ProjectPath: ProjectSettings\NavMeshAreas.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\NetworkManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\NetworkManager.asset
+      ProjectPath: ProjectSettings\NetworkManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\Physics2DSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\Physics2DSettings.asset
+      ProjectPath: ProjectSettings\Physics2DSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\ProjectSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\ProjectSettings.asset
+      ProjectPath: ProjectSettings\ProjectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\ProjectVersion.txt
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\ProjectVersion.txt
+      ProjectPath: ProjectSettings\ProjectVersion.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\QualitySettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\QualitySettings.asset
+      ProjectPath: ProjectSettings\QualitySettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\TagManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\TagManager.asset
+      ProjectPath: ProjectSettings\TagManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\TimeManager.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\TimeManager.asset
+      ProjectPath: ProjectSettings\TimeManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: textgame\ProjectSettings\UnityConnectSettings.asset
+      FullPath: D:\DESARROLLO\textgame\textgame\ProjectSettings\UnityConnectSettings.asset
+      ProjectPath: ProjectSettings\UnityConnectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 389e1b8566ba49880c8e7884b4a91a9b42c3e7da
+    MergeA: 
+    MergeB: 
+    AuthorName: texture
+    AuthorEmail: tonihurtado13@gmail.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Initial commit
+    Description: Initial commit
+    TimeString: 11/7/2017 3:04:29 PM +01:00
+    CommitTimeString: 11/7/2017 3:04:29 PM +01:00
+    Changes:
+    - Path: .gitignore
+      FullPath: D:\DESARROLLO\textgame\.gitignore
+      ProjectPath: ..\.gitignore
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: README.md
+      FullPath: D:\DESARROLLO\textgame\README.md
+      ProjectPath: ..\README.md
+      OriginalPath: 
+      Status: 4
+      Staged: 0
